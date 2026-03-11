@@ -11,8 +11,8 @@ I love building impactful technology products combining **AI, ML and Web Develop
 ## 🌐 Official Techfest’25 Website 
 TechFest- Asia's Largest Science and Technology Festival.
 Developed a class animated website for 29th TechFest serving **millions of global visitors**.
-- 🌐🌐
--  ![Website Link](https://techfest.org)
+- 🌐🌐 https://techfest.org
+
 
 - Implemented **20+ interactive elements**
 - Improved navigation and user engagement
@@ -27,7 +27,7 @@ Built a transformer-based language model inspired by ChatGPT.
 - Trained on **500,000+ sentences (20M tokens)**
 - Implemented **multi-head self attention**
 - Built **5-layer, 3-head transformer architecture**
-- ![Repository Link](https://github.com/Sanika970/Gpt_final)
+- https://github.com/Sanika970/Gpt_final
 
 ---
 
@@ -45,7 +45,7 @@ React website with animations and dynamic components (Magical Harry Potter theme
 - 4 house themed pages
 - 10+ animated UI components
 - Use of ideation and creative thinking
-- ![Repository Link](https://github.com/Sanika970/Harry_Potter_Animated)
+- https://github.com/Sanika970/Harry_Potter_Animated
 
 ---
 
@@ -56,7 +56,7 @@ Features:
 - Planner
 - Mood tracker
 - To-do list
-- ![Repository Link](https://github.com/https-kanika/Online-Journalling-Frontend)
+- https://github.com/https-kanika/Online-Journalling-Frontend
 
 ---
 
@@ -66,14 +66,14 @@ Web app supporting **150+ currencies**.
 - Real time exchange rates 
 - Dynamic conversions using APIs
 - Dynamic UI
-- ![Repository Link](https://github.com/Sanika970/Currency_Converter)
+- https://github.com/Sanika970/Currency_Converter
 
 ---
 
 # 📫 Connect With Me
 
 E-Mail: kurnesanika13@gmail.com
-Linkden: ![Link](https://linkedin.com/in/sanika-kurne-0b7a0532b)
+Linkden: https://linkedin.com/in/sanika-kurne-0b7a0532b
 
 
 
