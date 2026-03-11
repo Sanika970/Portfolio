@@ -4,7 +4,7 @@
 🎓 Second Year Student | IIT Bombay | B.Tech Civil Engineering   
 💻 Developer | AI & Web Enthusiast  
 
-I love building impactful technology products combining **AI, ML and Web Development**.
+AI & Web Developer building ML models, intelligent systems, Robotics Simulations and real world web platforms.
 
 # 🚀 Projects
 
