@@ -11,7 +11,8 @@ I love building impactful technology products combining **AI, ML and Web Develop
 ## 🌐 Official Techfest’25 Website 
 TechFest- Asia's Largest Science and Technology Festival.
 Developed a class animated website for 29th TechFest serving **millions of global visitors**.
-- 🌐🌐 ![Website Link](https://techfest.org)
+- 🌐🌐
+-  ![Website Link](https://techfest.org)
 
 - Implemented **20+ interactive elements**
 - Improved navigation and user engagement
